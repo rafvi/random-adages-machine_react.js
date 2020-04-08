@@ -1,6 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Random Adages Machine
+
+![Algorithm schema](./screenshot/screenshot01.png) 
+![Algorithm schema](./screenshot/screenshot02.png) 
+![Algorithm schema](./screenshot/screenshot03.png) 
+![Algorithm schema](./screenshot/screenshot04.png) 
 
 In the project directory, you can run:
 
