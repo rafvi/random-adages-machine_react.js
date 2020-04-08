@@ -2,10 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Random Adages Machine
 
-![Algorithm schema](./screenshot/screenshot01.png) 
-![Algorithm schema](./screenshot/screenshot02.png) 
-![Algorithm schema](./screenshot/screenshot03.png) 
-![Algorithm schema](./screenshot/screenshot04.png) 
+![screenshot](https://raw.githubusercontent.com/rafvi/random-adages-machine_react.js/master/gif-maker.gif) 
 
 In the project directory, you can run:
 
