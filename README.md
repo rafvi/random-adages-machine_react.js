@@ -104,3 +104,4 @@
        ]
 }
 ```
+<i>Źródło: https://pl.wiktionary.org/wiki/Kategoria:Polskie_przys%C5%82owia</i>
