@@ -1,0 +1,74 @@
+:root {
+    --clr-background: rgb(31, 210, 255);
+}
+
+body {
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 4px;
+    background-color: var(--clr-background);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 100px);
+    overflow-y: hidden;
+    transition: background-color 2s;
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Amatic SC', cursive;
+    margin-bottom: 14px;
+    color: white;
+}
+
+#adage-box {
+    width: 600px;
+    margin: 0 auto;
+    padding: 26px;  
+    border-radius: 4px;
+    background-color: white;
+    color: var(--clr-background);
+}
+
+@media (max-width: 650px) {
+    #adage-box {
+        width: auto;
+        height: auto;
+    }
+}
+
+#adage {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 800;
+    transition: color 2s;
+}
+
+#meaning {
+    text-align: right;
+    font-size: 26px;
+    transition: color 2s;
+    font-weight: 700;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 22px;
+}
+
+#btn-new-adage {
+    color: var(--clr-background);
+    background-color: Transparent;
+    border: none;
+    font-size: 34px;
+    cursor: pointer;
+    transition: color 2s;
+}
+
+#adage-tweet {
+    color: var(--clr-background);
+    font-size: 34px;
+    transition: color 2s;
+}
