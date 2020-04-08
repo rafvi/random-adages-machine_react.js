@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rafvi/random-adages-machine_react.js/master/gif-screen.gif'>
+<img src='https://raw.githubusercontent.com/rafvi/random-adages-machine_react.js/master/gif-screenshot.gif'>
 </p>
 
 ```json
